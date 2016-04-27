@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./gildasdeexcidiob00gilduoft_0001.png"; bbox 0 0 2003 3390; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 235 535 293 1218">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 235 535 293 1218">
+     <span class='ocr_line' id='line_1_1' title="bbox 235 535 293 1218; baseline 60.1 -601"><span class='ocrx_word' id='word_1_1' title='bbox 235 535 289 933; x_wconf 47' lang='lat' dir='ltr'>owmoem-moo</span> <span class='ocrx_word' id='word_1_2' title='bbox 241 994 290 1129; x_wconf 48' lang='lat' dir='ltr'>-mt</span> <span class='ocrx_word' id='word_1_3' title='bbox 244 1191 293 1218; x_wconf 72' lang='lat' dir='ltr'><strong>m</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 103 545 234 1191">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 103 545 234 1191">
+     <span class='ocr_line' id='line_1_2' title="bbox 103 545 234 1191; baseline 71.778 -717.778"><span class='ocrx_word' id='word_1_4' title='bbox 103 545 228 708; x_wconf 53' lang='lat'>22:21}—</span> <span class='ocrx_word' id='word_1_5' title='bbox 106 731 229 788; x_wconf 64' lang='lat'>{-</span> <span class='ocrx_word' id='word_1_6' title='bbox 109 974 232 998; x_wconf 56' lang='lat'>2-</span> <span class='ocrx_word' id='word_1_7' title='bbox 110 1028 233 1045; x_wconf 46' lang='lat'>3</span> <span class='ocrx_word' id='word_1_8' title='bbox 110 1067 234 1191; x_wconf 63' lang='grc' dir='ltr'>ΞΞΞ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 78 675 104 1080">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 78 675 104 1080">
+     <span class='ocr_line' id='line_1_3' title="bbox 78 675 104 1080; baseline 64.833 -389"><span class='ocrx_word' id='word_1_9' title='bbox 78 675 97 732; x_wconf 59' lang='grc' dir='ltr'>,Ζ</span> <span class='ocrx_word' id='word_1_10' title='bbox 79 740 99 808; x_wconf 50' lang='grc' dir='ltr'>ΞΟ»</span> <span class='ocrx_word' id='word_1_11' title='bbox 80 844 100 873; x_wconf 47' lang='lat' dir='ltr'>*O</span> <span class='ocrx_word' id='word_1_12' title='bbox 80 899 104 1080; x_wconf 45' lang='lat' dir='ltr'>›Zoeffmxs-ZD</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 42 480 332 1314">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 42 480 332 1314">
+     <span class='ocr_line' id='line_1_4' title="bbox 42 480 332 1314"><span class='ocrx_word' id='word_1_13' title='bbox 42 480 332 1314; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
